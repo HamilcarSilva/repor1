@@ -1,2 +1,2 @@
 # repor1
-repositório de teste
+repositório de teste no Linux Mint
