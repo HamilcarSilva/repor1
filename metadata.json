@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Reserva de Laboratórios",
+  "description": "Uma aplicação web para agendamento e gerenciamento de reservas de laboratórios universitários, com emissão de relatórios de utilização.",
+  "requestFramePermissions": []
+}
